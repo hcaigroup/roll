@@ -1,0 +1,12 @@
+<stack>
+  <description brief="Robot Learning Language">
+    Extension of the CRAM Plan Language to include experience-based learning
+  </description>
+  <author>Maintained by Alexandra Kirsch</author>
+  <license>GPL,Public domain, cl_libsvm, clmd5, cl_port, clsql, uffi</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/roll</url>
+  <depend stack="ros" />
+  <depend stack="cram_pl" />
+
+</stack>
