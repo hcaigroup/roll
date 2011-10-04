@@ -1,0 +1,20 @@
+<package>
+  <description brief="robot_learning_language">
+    The Robot Learning Language: Extensions of the CRAM Plan Language to integrate experience-based learning into CRAM plans
+  </description>
+  <author>Alexandra Kirsch</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/robot_learning_language</url>
+  <depend package="cram_language"/>
+  <depend package="designators"/>
+  <depend package="cl_libsvm"/>
+  <depend package="cl_port"/>
+  <depend package="clsql"/>
+  <depend package="clmd5"/>
+  <depend package="cffi"/>
+  <depend package="uffi"/>
+  <depend package="babel"/>
+</package>
+
+
