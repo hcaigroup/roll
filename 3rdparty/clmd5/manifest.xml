@@ -1,0 +1,14 @@
+<package>
+  <description brief="clmd5">
+
+     clmd5
+
+  </description>
+  <author>Kevin M. Rosenberg</author>
+  <license></license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/clmd5</url>
+
+</package>
+
+

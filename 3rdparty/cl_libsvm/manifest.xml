@@ -1,0 +1,20 @@
+<package>
+  <description brief="cl_libsvm">
+
+     cl_libsvm
+
+  </description>
+  <author>Gabor Melis</author>
+  <license></license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cl_libsvm</url>
+
+  <depend package="cffi"/>
+  <depend package="cffi_ros_utils"/>
+  <export>
+    <cpp lflags="-Wl,-rpath,${prefix}/lib -L${prefix}/src/lib/src -llibsvm"/>
+  </export>
+
+</package>
+
+
